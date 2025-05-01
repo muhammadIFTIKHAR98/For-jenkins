@@ -12,6 +12,8 @@
                 -not required in this project
         5- Build Steps
                 -Click 'Add Build Step' --> select your requirement(there are seven options) (example- 'Execute Window Batch Command' or 'Execute Shell')
+                -here i am running Jenkins on Windows so i selected 'Execute Window Batch Command' --> box will open 
+                -write the required command in the box provided, for example --> echo "hello world"
         6- Post build Actions
                 -not required in this project
 ### 3- Save the Configuration 
