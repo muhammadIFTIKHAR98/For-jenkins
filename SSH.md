@@ -1,4 +1,4 @@
-# SSH (RHEL to WINDOWS)
+# SSH [ACCESSING THE TERMINAL(RHEL) IN THE CMD(WINDOWS]
 ## Prerequisites
   - Redhat Linux is installed in VMware, which runs on the Windows.
   - RHEL VMware must be running
