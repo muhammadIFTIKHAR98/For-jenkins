@@ -1,9 +1,9 @@
 # SSH (RHEL to WINDOWS)
 ## Prerequisites
-  1- Redhat Linux is installed in VMware, which runs on the Windows.
-  2- RHEL VMware must be running
-  3- RHEL should have SSH server installed and in the active status.
-  4- SSH should also be installed in Windows
+  - Redhat Linux is installed in VMware, which runs on the Windows.
+  - RHEL VMware must be running
+  - RHEL should have SSH server installed and in the active status.
+  - SSH should also be installed in Windows
 ## Step by Step procedure to run Linux into CMD.
 ### Step 1: Install OpenSSH Client on Windows
             - open Powershell as Administrator.
