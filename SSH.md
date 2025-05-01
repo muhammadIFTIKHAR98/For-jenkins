@@ -6,7 +6,7 @@
   - SSH should also be installed in Windows
 ## Step by Step procedure to run Linux into CMD.
 ### Step 1: Install OpenSSH Client on Windows
-            - open Powershell as Administrator.
+      - open Powershell as Administrator.
             - run command "ssh" to check if it is working.
 ### Step 2: Enable SSH on Red Hat Linux
             - Install ssh server if not installed use this command --> "sudo yum install -y openssh-server"
